@@ -65,5 +65,3 @@ The Jupyter Notebook (`filename.ipynb`) contains the detailed analysis and visua
     ```bash
     jupyter notebook filename.ipynb
     ```
-
-## Project Structure
